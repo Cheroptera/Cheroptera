@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Cheroptera
 - 👀 I’m interested in tech, music, art, design, nature, video games, jewellery making and board games.
 - 🌱 I’ve changed career from linguistics and music production to programming.
-- 🎨 I love happy and bright colors.
-- 💞️ I’m looking to collaborate on projects where I can use my creativity. 
+
+
 
 
 <!---
